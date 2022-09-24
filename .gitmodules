@@ -1,3 +1,9 @@
 [submodule "CodingShodkk-Extension"]
 	path = CodingShodkk-Extension
 	url = https://github.com/shaantanu9/CodingShodkk-Extension
+[submodule "CodingShodkk-Frontend"]
+	path = CodingShodkk-Frontend
+	url = https://github.com/shaantanu9/CodingShodkk-Frontend
+[submodule "CodingShodkk-Backend"]
+	path = CodingShodkk-Backend
+	url = https://github.com/shaantanu9/CodingShodkk-Backend
