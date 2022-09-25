@@ -52,13 +52,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/shaantanu9/CodingShodkk.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/shaantanu9/CodingShodkk/issues"
   },
