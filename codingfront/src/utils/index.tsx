@@ -1,1 +1,0 @@
-import {getLocalStorage, setLocalStorage} from './localStorage';
